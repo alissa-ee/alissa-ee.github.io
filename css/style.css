@@ -6,26 +6,38 @@ p {text-align: center;font-family: 'Baloo Da 2', cursive;}
 .banner {text-align: center;Background-color: #415136;color: #FFFFFF; font-family: 'Baloo Da 2', cursive;}
 .hero-img {
   background-image: url("../images/banners/bannertop.png"), url("../images/banners/banner.jpg");
-  height: 500px;
-  background-position: center, center right;
+  height: 600px;
+  background-position: top left, center;
   background-repeat: no-repeat, no-repeat;
   background-size: cover;
   position: relative;
   background-color: #cccccc;
   color:#FFFFFF;
   }
-.border
-{padding-left:50px;}
+
+.logo-space
+  {padding-top:5%;
+  padding-right:10%}
+.ff-logo{
+  max-width: 50%;
+height: auto;
+}
+
+
+
+
   #rcorners3 {
     border-radius: 50px 0px;
     background: #AD8B5F;
     padding: 20px;
-    width: 1000px;
-    height: 500px;}
+    width: 900px;
+    height: 500px;
+   max-width: 150%;}
 
     #rcorners4 {
       border-radius: 50px 0px;
       background: #415136;
       padding: 20px;
       width: 900px;
-      height: 300px;}
+      height: 300px;
+     max-width: 100%;}
