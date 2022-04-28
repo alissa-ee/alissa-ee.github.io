@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@800&family=Cabin&family=Dawning+of+a+New+Day&family=Libre+Barcode+39&family=Monoton&family=Playfair+Display:wght@600&family=Rock+3D&display=swap');
+
+body {font-family: 'Baloo Da 2', cursive; }
+h1 {text-align: center; color: #415136; font-family: 'Baloo Da 2', cursive;}
+p {text-align: center;font-family: 'Baloo Da 2', cursive;}
+.banner {text-align: center;Background-color: #415136;color: #FFFFFF; font-family: 'Baloo Da 2', cursive;}
+.hero-img {
+  background-image: url("../images/banners/bannertop.png"), url("../images/banners/banner.jpg");
+  height: 500px;
+  background-position: center, center right;
+  background-repeat: no-repeat, no-repeat;
+  background-size: cover;
+  position: relative;
+  background-color: #cccccc;
+  color:#FFFFFF;
+  }
+.border
+{padding-left:50px;}
+  #rcorners3 {
+    border-radius: 50px 0px;
+    background: #AD8B5F;
+    padding: 20px;
+    width: 1000px;
+    height: 500px;}
+
+    #rcorners4 {
+      border-radius: 50px 0px;
+      background: #415136;
+      padding: 20px;
+      width: 900px;
+      height: 300px;}
