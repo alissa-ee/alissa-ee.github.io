@@ -111,6 +111,17 @@ height: auto;
   height: 50px;
  max-width: 150%;}
 
+ #rcorners02 {
+   text-align: center;
+   border-radius: 50px;
+   background: #EFECC7;
+   padding: 15px;
+   width: 200px;
+   height: 50px;
+  max-width: 150%;
+color:black;
+margin-top:5%}
+
   #rcorners3 {
     text-align: left;
     border-radius: 50px 0px;
@@ -119,14 +130,18 @@ height: auto;
     padding-left: 75px;
     padding-right:75px;
     width: 900px;
-    height: 500px;
+    height: 550px;
    max-width: 150%;}
 
     #rcorners4 {
+      text-align: left;
       border-radius: 50px 0px;
       background: #415136;
-      padding: 20px;
-      width: 900px;
+      padding-top:50px;
+      padding-left: 75px;
+      padding-right:75px;
+      color:#EFECC7;
+      width: 800px;
       height: 300px;
      max-width: 100%;}
 
@@ -135,12 +150,44 @@ height: auto;
        margin-right:auto;
        border-radius: 50px 0px;
        background: #AD8B5F;
-       padding: 20px;
+       padding-top:2%;
        width: 1600px;
-       height: 200px;
-      max-width: 100%;}
+       height: 150px;
+      max-width: 100%;
+    color:#EFECC7}
+
+      #rcorners6 {
+  border-radius: 25px;
+  border: 2px solid #EFECC7;
+  padding-top: 5px;
+  padding-left: 15px;
+  width: 500px;
+  height: 40px;
+  margin-left: auto;
+  margin-right:auto;
+color:#EFECC7;
+text-align: left;}
 
 
     .footer {
     background-color: #415136;
-    background-size: cover;}
+    background-size: cover;
+  color:white;}
+
+  .footertext{
+    margin-top:2.25%;
+    font-size:12px}
+
+  .footericons{
+    margin-top: 2%
+  }
+.twitter
+{}
+  .insta
+  {margin-left:10%;}
+
+  .youtube
+  {margin-left:10%;}
+
+  .facebook
+  {margin-left:10%;}
