@@ -191,3 +191,39 @@ text-align: left;}
 
   .facebook
   {margin-left:10%;}
+
+  .filter
+  {color:#415136;
+  font-size:16pt;
+text-align:left;}
+
+  .sort
+  {color:#415136;
+  font-size:16pt;
+text-align:right;}
+
+.productname
+{color:#415136;
+font-size:16pt;
+text-align:left;
+padding-top:10%;}
+
+.pricenumber
+{color:#415136;
+font-size:16pt;
+text-align:right;
+padding-top:20%;}
+
+.middle
+{color:#415136;
+font-size:16pt;
+text-align:left;
+padding-top: 10%;
+padding-left: 26%;}
+
+.middleprice
+{color:#415136;
+font-size:16pt;
+text-align:right;
+padding-top: 10%;
+padding-right:27%; }
